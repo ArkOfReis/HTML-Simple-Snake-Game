@@ -1,2 +1,7 @@
 # HTML-Simple-Snake-Game
-Simple Snake Game on HTML
+```
+Arrow Key Up = Up
+Arrow Key Down = Down
+Arrow Key Left = Left
+Arrow Key Right = Right
+```
